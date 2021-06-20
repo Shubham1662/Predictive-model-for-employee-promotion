@@ -1,4 +1,4 @@
-# Inbalanced-Classification-model
+# Inbalanced-Classification-model (Analytics Vidya Hackathon)
 This was an hackathon  organised by WNS to work on HR data to predict whether a employee will be promoted or not.
 
 Your client is a large MNC and they have 9 broad verticals across the organisation. One of the problem your client is facing is around identifying the right people for promotion (only for manager position and below) and prepare them in time. Currently the process, they are following is:
